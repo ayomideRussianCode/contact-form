@@ -5,7 +5,7 @@ function Form() {
     <div className="flex items-center justify-center min-h-screen bg-green1 px-4 sm:px-6 overflow-hidden sm:overflow-visible">
       <div className=" w-full max-w-md sm:max-w-lg bg-white rounded-lg p-6 sm:p-8 shadow-lg overflow-y-auto sm:overflow-visible max-h-screen sm:max-h-full">
         <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-gray mb-6 ">
-          Contact Form
+          Contact Us
         </h2>
         <form>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-4">
